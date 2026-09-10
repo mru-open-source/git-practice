@@ -5,6 +5,7 @@ Follow the instructions for this lab to submit a patch via email.
 ## Edit only below this line
 
 Tell me your favourite programming language, and why!
+My favourite programming language is Python because of the variety of library ecosystem that lets me build powerful applications.
 
 
 I would say Python is my favorite language. this is because I feel comfortable using it, since I've used in multiple project both academics and personal. Although I don't like how much of it I cannot fine tune like other languages like C++.
