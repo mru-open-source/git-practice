@@ -13,3 +13,5 @@ My favourite language is probably Javascript but that's only because its the lan
 My favourite language is Python because of the big and useful libraries it has and maintained by the community
 
 If I had to pick a favourite language it'd be Python. It's just very straight forward and easy to work with. That being said I feel like C++ is more 'consistent'
+
+Norris: Golang because the code produces a static binary, which is nice.
