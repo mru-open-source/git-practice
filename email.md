@@ -11,6 +11,7 @@ I would say Python is my favorite language. this is because I feel comfortable u
 
 Mine is probably C++. It's hugely flexible and I feel like I learn something new every time I read or write it.
 
+
 My favourite language is probably Javascript but that's only because its the language I know best. I've been doing a lot more stats and data analysis lately so I think R is slowly becoming new favourite. Python is okay too I guess.
 
 
@@ -18,6 +19,10 @@ My favourite language is probably Javascript but that's only because its the lan
 My favourite programming language is C++ because I like how it gives me
 control over how the program works and helps me understand programming
 concepts in more depth.
+
+
+My favourtie programming language is C++ since Arduino's programming IDE uses C++ and one of my hobbies is recreating Arduino projects.
+Java is a close second though due to how much time I spent using Java in the BCIS program
 
 ---
 
