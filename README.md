@@ -7,4 +7,6 @@ Add a link to the file you added in `userfiles` to the list below.
 Let there be conflicts!
 
 ## Index of `userfiles` directory
+
+[daraakitoyemru](userfiles/daraakitoyemru.md)
 [nalhe627](userfiles/nalhe627.md)
