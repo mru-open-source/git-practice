@@ -34,3 +34,7 @@ If I had to pick a favourite language it'd be Python. It's just very straight fo
 Norris: Golang because the code produces a static binary, which is nice.
 
 For me I think it would have to be Python. It was the first programming language I used and I have used it intermittenly since. Even though people have their vices with white space being used for logic, I let it slide because nothing beats Python readability and familiarity for me :)
+
+*I'm not sure I could pick a favorite language, but I recently learned about AutoIt, a simple high-level language that automates Windows processes, and was pleased by it. I have not done anything useful with it yet, I just created a program that makes it seem like the computer is haunted to make my sisters laugh.*
+
+I like Python because it is readable, beginner-friendly, and great for automation and data work.
