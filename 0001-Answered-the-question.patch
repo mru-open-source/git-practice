@@ -1,0 +1,21 @@
+From 4580e9679603c66d1bc23f7253bdc77e9abf51c7 Mon Sep 17 00:00:00 2001
+From: Hisseine Taha <tahahassir@gmail.com>
+Date: Fri, 11 Sep 2026 20:01:50 -0600
+Subject: [PATCH] Answered the question
+
+---
+ email.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/email.md b/email.md
+index 24a7c28..865184d 100644
+--- a/email.md
++++ b/email.md
+@@ -7,3 +7,4 @@ Tell me your favourite programming language, and why!
+ Mine is probably C++. It's hugely flexible and I feel like I learn something new every time I read or write it.
+ 
+ ---
++If I had to pick a favourite language it'd be Python. It's just very straight forward and easy to work with. That being said I feel like C++ is more 'consistent'
+-- 
+2.53.0
+
