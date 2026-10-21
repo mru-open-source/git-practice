@@ -1,0 +1,48 @@
+From 9b31f124f7c189dde0d9a7a54d37a005a5d1a2d1 Mon Sep 17 00:00:00 2001
+From: Diego Gonzalez <dggonzalez04@gmail.com>
+Date: Thu, 10 Sep 2026 16:52:22 -0600
+Subject: [PATCH] edited email.md and followed the instructions
+
+---
+ .DS_Store | Bin 0 -> 6148 bytes
+ email.md  |   2 ++
+ 2 files changed, 2 insertions(+)
+ create mode 100644 .DS_Store
+
+diff --git a/.DS_Store b/.DS_Store
+new file mode 100644
+index 0000000000000000000000000000000000000000..bc63698eb830df5529ca47a1dd6f02f4d672aab8
+GIT binary patch
+literal 6148
+zcmeHK&2AGh5T0oRO<JIvHi5PRDIyo7UW&vObqPffA(V(zRl;9LHcq;9yN-4@DeWn*
+zzyt6AJOdYwTzCY;Bfym#Gq$5Pq@0itiagTz8_$m|e=FN-0Kn3qa~r?`fHWy%YLS|A
+zgyXDJGG{!DsK)4m4*>{>eQzq;IxGX0f&YyG-n$tXKuo(ff;0Pf*l!22O&j}5yC3**
+zvbFWiad2)vb>ZSdI<vTR>GG9jC%dwm&1LiX{MBn~>l+)_o6c&x<sI}QIS4!VWgw$c
+zFc8msk>9EHTb>{G>WO%p)ch0CbXI;#eJVPyPF=gleagw5I@E9vBOyXHUZvZOMN&Uw
+zH=53J>_svNsxtNyUxtkr@xDANC*rUib|uX?^u<x7&!KovL^0u1O}){IqE^@wrQ?@D
+zt1W^`SdvL14>^-Z^JG|!1dmkr$>y~bw}0sGT67<eja%Aqpr{QxLvv%xAQnG$bm49&
+zLy^f8-Kq(tVH57b6WD_TIDvQY9zMWF_zYj+JN(22T*sTZiFfcWZsQ{?<1_SdAANkI
+z>*we=R&v9j0gTBw=W`EhQ5eXuN6~TRWTEZNAOq%8r<Z1MZFWhP0n5POF~H|Tft1lT
+zIMS$&4r=)Kf#WGg7P9#*!B{Zp8XRe)2np&^LS2gHiGjMD`~{Qe8XRfV<$!8t8pq6x
+z=7oZ4cJdcgI-sl3ww3|Qz$63ny6f=$|KQK>|H&fTvkX`UW{Lq!?bLQkv?O!4PA!h_
+v+5+ioQWnk|X;dZDnCn;>d=;;eDxp|`4MNx8NF#Yj?2mw=!8VqGf6Blw`JI)I
+
+literal 0
+HcmV?d00001
+
+diff --git a/email.md b/email.md
+index 24a7c28..f440f32 100644
+--- a/email.md
++++ b/email.md
+@@ -4,6 +4,8 @@ Follow the instructions for this lab to submit a patch via email.
+ ## Edit only below this line
+ Tell me your favourite programming language, and why!
+ 
++I would say Python is my favorite language. this is because I feel comfortable using it, since I've used in multiple project both academics and personal. Although I don't like how much of it I cannot fine tune like other languages like C++.
++
+ Mine is probably C++. It's hugely flexible and I feel like I learn something new every time I read or write it.
+ 
+ ---
+-- 
+2.50.1 (Apple Git-155)
+
