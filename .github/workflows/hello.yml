@@ -1,4 +1,5 @@
-name: Ghassan Alnajjar
+
+name: Hello world
 
 on: push
 
@@ -6,5 +7,16 @@ jobs:
   say_hello:
     runs-on: ubuntu-latest
     steps:
-      - name: Hello Ghassan!
+      - name: Say hello
         run: echo "Hello, world!"
+
+  run_tests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7
+
+      - name: Style check
+        uses: jpetrucciani/black-check@26.10.1
+        with:
+          path: "silly_example"
