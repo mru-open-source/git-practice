@@ -1,0 +1,10 @@
+name: Ghassan Alnajjar
+
+on: push
+
+jobs:
+  say_hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hello Ghassan!
+        run: echo "Hello, world!"
