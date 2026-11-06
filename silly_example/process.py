@@ -12,6 +12,7 @@
 import sys
 import random
 
+
 def print_stuff(csv: str) -> None:
     """
     Prints stuff from the csv
@@ -37,7 +38,7 @@ def make_data() -> None:
             f.write(f"{random.randint(0, n)},{random.randint(0, n)}\n")
 
     print("Data saved to input.csv")
-    
+
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
@@ -46,7 +47,7 @@ if __name__ == "__main__":
 
         if response.lower() == "y":
             make_data()
-        
+
         exit(0)
 
     print_stuff(sys.argv[1])
