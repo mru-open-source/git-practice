@@ -1,0 +1,23 @@
+name: Hello world
+
+on: push
+
+jobs:
+  say_hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Say hello
+        run: echo "Hello, world!"
+
+  run_tests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Black
+        run: pip install black
+
+      - name: Check Python formatting
+        run: black --check .
+
