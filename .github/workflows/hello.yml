@@ -9,12 +9,12 @@ jobs: # required keyword
         run: echo "Hello, world!" # The actual command that runs
 
   run_tests:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout code
-          uses: actions/checkout@v7
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7
 
-        - name: Style check
-          uses: jpetrucciani/black-check@26.10.1
-          with:
+      - name: Style check
+        uses: jpetrucciani/black-check@26.10.1
+        with:
           path: "silly_example"
