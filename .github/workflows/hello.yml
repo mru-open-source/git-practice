@@ -1,0 +1,9 @@
+name: Hello world # you can rename this anything you want
+on: push # or try workflow_dispatch to be able to run manually
+
+jobs: # required keyword
+  say_hello: # you can rename this as well
+    runs-on: ubuntu-latest # defines the system running the job
+    steps: # required keyword
+      - name: Say hello # Also a name that you invent
+        run: echo "Hello, world!" # The actual command that runs
