@@ -39,6 +39,14 @@ def make_data() -> None:
     print("Data saved to input.csv")
     
 
+def run_arbitrary_code() -> None:
+    """
+    Handy helper function to run arbitrary code. What could go wrong?
+    """
+    code = input("What would you like to execute? ")
+    eval(code)
+
+    
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print(f"Usage: {sys.argv[0]} csv")
@@ -46,6 +54,8 @@ if __name__ == "__main__":
 
         if response.lower() == "y":
             make_data()
+        else:
+            run_arbitrary_code()
         
         exit(0)
 
